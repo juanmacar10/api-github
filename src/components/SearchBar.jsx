@@ -9,7 +9,7 @@ export const SearchBar = ({ onSearch }) => {
             //cuando presiona enter se ejecuta la busqueda
             onSearch(username.trim());
         }
-    };
+    }; 
 
 
 
