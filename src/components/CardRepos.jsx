@@ -1,6 +1,6 @@
 import star from '../assets/star.svg'
-import fork from '../assets/Nesting.svg'
-import licenses from '../assets/chield_alt.svg'
+import fork from '../assets/nesting.svg'
+import licenses from '../assets/chield.svg'
 
 export const CardRepos = ({name, description, stars, forks, updated, license}) => {
     
